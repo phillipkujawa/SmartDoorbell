@@ -30,13 +30,12 @@ Prerequisites:
     - password for SIPUSERNAME on sip.linphone.org: PASSWORD1234
     - proxy list
     
-    ****** Proxy 0 - this is the default one - *******
+****** Proxy 0 - this is the default one - ******
 sip address: <sip:sip.linphone.org;transport=tls>
 route: 
 identity: sip:pkdoorbell@sip.linphone.org
 register: yes
 expires: 600
 registered: yes
-
 
 If you see the above example and it registers successfully then you've completed the prerequisite steps successfully.

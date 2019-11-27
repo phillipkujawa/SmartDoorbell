@@ -33,7 +33,7 @@ Prerequisites:
 ****** Proxy 0 - this is the default one - ******
 sip address: <sip:sip.linphone.org;transport=tls>
 route: 
-identity: sip:pkdoorbell@sip.linphone.org
+identity: sip:SIPUSERNAME@sip.linphone.org
 register: yes
 expires: 600
 registered: yes

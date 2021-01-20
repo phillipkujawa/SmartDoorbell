@@ -18,11 +18,11 @@ Prerequisites:
     - mkdir /home/pi/.local/share/linphone/
  - Check directory to confirm if everything is installed correctly
     - cd linphone-desktop/OUTPUT/no-ui/bin
-    - For PSTN calls please use a SIP Provider with Linphone (Recommended: Telnyx - https://telnyx.com/)
     
  - Account Registration
     - cd linphone-desktop/OUTPUT/no-ui/bin 
     - ./linphonec
+    - For PSTN calls please use a SIP Provider with Linphone (Recommended: Telnyx - https://telnyx.com/)
     - enter proxy sip address: sip:sip.linphone.org;transport=tls
     - enter your identity for this proxy: sip:SIPUSERNAME@sip.linphone.org
     - do you want to register on this proxy (yes/no): yes

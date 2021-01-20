@@ -18,6 +18,7 @@ Prerequisites:
     - mkdir /home/pi/.local/share/linphone/
  - Check directory to confirm if everything is installed correctly
     - cd linphone-desktop/OUTPUT/no-ui/bin
+    - For PSTN calls please use a SIP Provider with Linphone (Recommended: Telnyx - https://telnyx.com/)
     
  - Account Registration
     - cd linphone-desktop/OUTPUT/no-ui/bin 
